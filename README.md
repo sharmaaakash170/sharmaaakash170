@@ -2,6 +2,8 @@
 
 <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" height="90" />
 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3h2enZkMDhia3IzbHoxemo4anhzMXBpbWtjb2Exd3VueDF1Y2NhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kgUkCLMu3xhw1T6txv/giphy.gif" height="90" />
+
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
