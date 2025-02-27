@@ -1,4 +1,18 @@
 # Hi there, I'm Aakash Sharma! 👋
+
+            
+    
+    
+            
+            
+## 🚀 About Me  
+I'm a **DevOps Engineer** with **4+ years of experience**, specializing in **Observability, CI/CD, Cloud Infrastructure, and Automation**.  
+- 🏗 **Freelance DevOps Engineer** (2020-2023)  
+- 💼 **Jio Private Limited** (2023-2024) — Focused on scalable and observable infrastructure  
+
+---
+
+## 🛠️ Tech Stack  
 <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
             alt="aws" width="100" height="100" /> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"                                    
@@ -30,19 +44,6 @@
             <img
             src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100"
             width="100" /> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer">
-            
-    
-    
-            
-            
-## 🚀 About Me  
-I'm a **DevOps Engineer** with **4+ years of experience**, specializing in **Observability, CI/CD, Cloud Infrastructure, and Automation**.  
-- 🏗 **Freelance DevOps Engineer** (2020-2023)  
-- 💼 **Jio Private Limited** (2023-2024) — Focused on scalable and observable infrastructure  
-
----
-
-## 🛠️ Tech Stack  
 ### ☁️ Cloud & Infrastructure  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
