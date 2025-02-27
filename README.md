@@ -1,23 +1,5 @@
 # Hi there, I'm Aakash Sharma! 👋
 
-<img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" height="90" />
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3h2enZkMDhia3IzbHoxemo4anhzMXBpbWtjb2Exd3VueDF1Y2NhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kgUkCLMu3xhw1T6txv/giphy.gif" height="90" />
-
-<p align="center">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker" width="60" height="60" /> </a> <a href="https://www.elastic.co" target="_blank"
-        rel="noreferrer"> 
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
-
 ## 🚀 About Me  
 I'm a **DevOps Engineer** with **4+ years of experience**, specializing in **Observability, CI/CD, Cloud Infrastructure, and Automation**.  
 - 🏗 **Freelance DevOps Engineer** (2020-2023)  
