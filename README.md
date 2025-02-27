@@ -5,12 +5,8 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3h2enZkMDhia3IzbHoxemo4anhzMXBpbWtjb2Exd3VueDF1Y2NhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kgUkCLMu3xhw1T6txv/giphy.gif" height="90" />
 
 <p align="center">
-  <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a> <a href="https://www.docker.com/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker" width="40" height="40" /> </a> <a href="https://www.elastic.co" target="_blank"
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+            alt="docker" width="60" height="60" /> </a> <a href="https://www.elastic.co" target="_blank"
         rel="noreferrer"> 
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
