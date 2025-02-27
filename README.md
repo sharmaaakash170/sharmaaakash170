@@ -1,8 +1,7 @@
 # Hi there, I'm Aakash Sharma! 👋
 <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-            alt="aws" width="40" height="40" /> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"
-                                                                 
+            alt="aws" width="40" height="40" /> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"                                    
         rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40"
             height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
