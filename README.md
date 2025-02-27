@@ -5,13 +5,9 @@
         rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40"
             height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
             alt="docker" width="40" height="40" /> </a> <a href="https://www.elastic.co" target="_blank"
         rel="noreferrer"> 
-
-        <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch"
-            width="40" height="40" /> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
 
             
             
