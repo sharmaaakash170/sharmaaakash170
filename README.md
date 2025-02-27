@@ -5,7 +5,7 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3h2enZkMDhia3IzbHoxemo4anhzMXBpbWtjb2Exd3VueDF1Y2NhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kgUkCLMu3xhw1T6txv/giphy.gif" height="90" />
 
 <p align="center">
-  <img src="https://tenor.com/en-GB/view/whale-docker-container-gif-12376852" height="90" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
@@ -28,7 +28,7 @@ I'm a **DevOps Engineer** with **4+ years of experience**, specializing in **Obs
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
-![Docker](https://tenor.com/en-GB/view/whale-docker-container-gif-12376852)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
 
 ### ⚙️ CI/CD & Automation  
