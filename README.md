@@ -93,6 +93,5 @@ I'm currently creating a **YouTube tutorial series** covering **Kubernetes basic
 
 ## 📬 Connect with Me  
 - 💼 **LinkedIn:** [Aakash Sharma](https://www.linkedin.com/in/aakash-sharma-8937b81aa/)  
-- 📝 **Blog (If applicable):** *(Update with actual blog link if available)*  
 
 💡 **Always learning, building, and sharing my knowledge with the DevOps community!** 🚀
