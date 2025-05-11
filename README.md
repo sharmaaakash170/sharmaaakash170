@@ -22,10 +22,6 @@ I'm a **DevOps Engineer** with **4+ years of experience**, specializing in **Obs
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
             alt="docker" width="100" height="100" /> </a> <a href="https://www.elastic.co" target="_blank"
         rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch"
-            width="100" height="100" /> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="100"
-            height="100" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100" width="100" /> </a> <a
         href="https://grafana.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="100" width="100" />
@@ -58,7 +54,6 @@ I'm a **DevOps Engineer** with **4+ years of experience**, specializing in **Obs
 ### 📊 Monitoring & Observability  
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white)  
 
 ### 💾 Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
